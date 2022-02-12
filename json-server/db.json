@@ -1,0 +1,14 @@
+{
+  "blogs": [
+    { "id": 1, "title": "Blog 1", "content": "This is the first blog" },
+    { "id": 2, "title": "Blog 2", "content": "This is the second blog" },
+    { "id": 3, "title": "Blog 3", "content": "This is the third blog" },
+    { "id": 4, "title": "Blog 4", "content": "This is the fourth blog" },
+    { "id": 5, "title": "Blog 5", "content": "This is the fifth blog" },
+    { "id": 6, "title": "Blog 6", "content": "This is the sixth blog" },
+    { "id": 7, "title": "Blog 7", "content": "This is the seventh blog" },
+    { "id": 8, "title": "Blog 8", "content": "This is the eighth blog" },
+    { "id": 9, "title": "Blog 9", "content": "This is the ninth blog" },
+    { "id": 10, "title": "Blog 10", "content": "This is the tenth blog" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "ignoreTestFiles": "**/examples/*",
+  "testFiles": "**/*.*",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "componentFolder": "src",
+  "integrationFolder": "tests/e2e",
+  "fixturesFolder": "tests/fixtures",
+  "pluginsFile": "tests/plugins/index.js"
+}
